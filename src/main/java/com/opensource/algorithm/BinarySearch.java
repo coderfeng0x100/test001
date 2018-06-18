@@ -7,6 +7,7 @@ public class BinarySearch {
 		int length = array.length;
 		if (length <= 0) return -1;
 
+
 		int startIndex = 0;
 		int endIndex = length - 1;
 
